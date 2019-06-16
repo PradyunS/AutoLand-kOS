@@ -1,0 +1,7 @@
+funtion main{
+	
+}
+
+funtion setHeading{
+
+}
